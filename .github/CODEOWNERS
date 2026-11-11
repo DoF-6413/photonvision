@@ -1,6 +1,4 @@
-# These owners will be the default owners for everything in the repo.
-*	@PhotonVision/program-devs
-docs/* @PhotonVision/doc-maintainers
-photonlib-java-examples/* @PhotonVision/doc-maintainers
-photonlib-cpp-examples/* @PhotonVision/doc-maintainers
-photonlib-python-examples/* @PhotonVision/doc-maintainers
+# Default owners for everything in the repo.
+# With "Require review from Code Owners" enabled on the default branch,
+# a pull request needs approval from a member of this team.
+* @DoF-6413/mentors
